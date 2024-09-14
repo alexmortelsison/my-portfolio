@@ -19,7 +19,7 @@ const HeroSection = () => {
         <h1 className="text-4xl font-bold">
           Stay Ahead with the Latest in Tech
         </h1>
-        <h2 className="py-10">
+        <h2 className="py-5">
           <h3>Insights, Reviews, and Trends from the World of Technology</h3>
         </h2>
         <button className="bg-teal-300 px-4 py-5 rounded-xl text-black font-bold hover:bg-teal-700 hover:text-white">
